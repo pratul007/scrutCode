@@ -1,0 +1,43 @@
+.mrg{
+    margin-top: 60px;
+}
+.icon{
+    margin-right: 10px;
+}
+.bgcolor{
+    background-color: #8699b8;
+}
+.nav-nam{
+    display: -webkit-box !important;
+}
+.crd{
+    width: 160px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    border-color: blue !important;
+    border-width: medium !important;
+}
+.text{
+    text-align: center;
+    font-size: 20px ;
+    font-weight: 500 ;
+}
+.crds{
+    display: flex;
+}
+.srch
+    {
+        width: 25%;
+        display: flex;
+        margin-left: 75%;
+    }
+    .excel{
+        margin-left: 60%;
+        display: -webkit-inline-box !important;
+    }
+    .selector
+        {
+            width: 180px;
+            height: 30px;
+            margin-left: 10px;
+        }
